@@ -8,6 +8,3 @@ In our experiments, we utilize three datasets, all stored in the `src/data` fold
 conda env create -f env.yaml
 conda activate freqmixrec
 ```
-
-## Acknowledgement
-This repository is based on [BSARec-main](https://github.com/yehjin-shin/BSARec).
